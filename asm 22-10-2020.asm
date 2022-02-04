@@ -1,4 +1,3 @@
-
 .data
 ST: .space 32 ;#ST[32]
 stack: .space 32
